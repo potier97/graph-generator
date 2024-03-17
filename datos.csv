@@ -1,0 +1,1001 @@
+endpoint,usuario,status_code,response
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cbunhill0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbayliss1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lbagworth2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vpetch3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bingleston4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,adowry5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mstratiff6,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,awebb7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sstops8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rkermott9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,okochea,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tbursnellb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agentschc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,yferruzzid,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cvarnalse,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ndungatef,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ucolbertsong,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kpattemoreh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rgoghini,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,khackwellj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,haizikk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gomullenl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,btrenholmm,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tmusicon,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgillespeyo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmayhoup,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jdroughtq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rfarnhamr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fmavens,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcreelmant,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fthakeu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jwaldockev,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ichristoforw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dblethinx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pfidelusy,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jsantostefanoz,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tcronkshaw10,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tkentwell11,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rstilgoe12,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgrills13,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbaldam14,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lgozzard15,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmirrlees16,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cvandenhoff17,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rtiller18,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hmeddick19,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,npingston1a,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gcomiam1b,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,owaddup1c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbuckett1d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acomelini1e,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jdurbin1f,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tlacase1g,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ggoldsworthy1h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cpingstone1i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dpimm1j,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kmeo1k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chedon1l,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agreensitt1m,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmacdaid1n,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lkleinstern1o,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ptremayne1p,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lchominski1q,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fmartill1r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,plevy1s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hkarlicek1t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mbroz1u,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbrommage1v,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iianinotti1w,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cbassford1x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,himlock1y,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,glemmanbie1z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dshower20,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,seastwood21,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cstitle22,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rbraxay23,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vjanda24,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nbrewood25,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jsoffe26,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iconstantine27,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mrookesby28,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jclementson29,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tsyphas2a,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jkurton2b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rcircuitt2c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahattigan2d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,irathbourne2e,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,zlancley2f,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jforker2g,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,beul2h,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fvalente2i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,xicom2j,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mstayte2k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jiwanczyk2l,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmacalpyne2m,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmcgirl2n,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbrunke2o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fseabourne2p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdudin2q,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcremin2r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rrignoldes2s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jwickett2t,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,apinch2u,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pblewitt2v,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pbrightie2w,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmallord2x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vschubart2y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nbillo2z,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bguterson30,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mheinssen31,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wgillbe32,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lrasper33,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,asebert34,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cquye35,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,smaccumeskey36,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdefont37,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,giacopetti38,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vpender39,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dkenny3a,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kcolliard3b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,blooker3c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rvillar3d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pgaspero3e,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmacey3f,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sscholes3g,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,flademann3h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,reakeley3i,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nmatschke3j,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tdarton3k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lbeat3l,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gtours3m,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vlebrum3n,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hrarity3o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dyeoman3p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lskurray3q,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sdalman3r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jnewby3s,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iscardifield3t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,htoupe3u,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kabela3v,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aparkyn3w,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sheister3x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bberrington3y,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jmilhench3z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ggregolin40,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fcallan41,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tpagon42,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rcoyte43,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ogolbourn44,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbrussels45,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gklaussen46,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rgarey47,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jickovici48,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bruseworth49,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jhawkridge4a,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wpellew4b,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agaller4c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lcleynaert4d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bfargher4e,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tnanetti4f,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mcundey4g,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fthorne4h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,slambie4i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kyeardsley4j,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cwillmer4k,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bjonson4l,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,okirton4m,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmathiassen4n,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rducastel4o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ksketchley4p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bprettejohns4q,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,foxley4r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdudny4s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dstood4t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rlowrie4u,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,emeriet4v,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdavis4w,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tmccluney4x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fglisane4y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmadre4z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rkleinlerer50,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tstrick51,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcream52,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,csoots53,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdericut54,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,memby55,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mrippingale56,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jscripture57,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,crivallant58,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aswaile59,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aorford5a,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tjopling5b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aredman5c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gvigne5d,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hjohansson5e,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nvennard5f,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jpummery5g,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dohara5h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mquinnelly5i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jgislebert5j,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rvolcker5k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbroadwell5l,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aeffemy5m,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wolfert5n,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rgiovanni5o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sellerey5p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kpeplow5q,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ecollomosse5r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ncollum5s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbootyman5t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgimert5u,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bislep5v,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ifoort5w,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ibuesden5x,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pknoles5y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rbustard5z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jsmiths60,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tgopsall61,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cwoolager62,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,oworms63,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tgasnoll64,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abillanie65,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bgaskill66,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hcuppitt67,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gwarrier68,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dwentworth69,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ppunchard6a,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ppideon6b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mflintuff6c,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbalderston6d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbarzen6e,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,azettler6f,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sstandring6g,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gwason6h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,schuck6i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jpilsworth6j,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdacosta6k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dguerriero6l,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mgouinlock6m,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tsyvret6n,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kalti6o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,emeany6p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cogelbe6q,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tphateplace6r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wpickton6s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbasson6t,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmccullum6u,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bniland6v,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dsambath6w,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgoodoune6x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,spiff6y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tgamet6z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,zkirvin70,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbannon71,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,oportinari72,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jcampbell73,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cplowman74,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbaysting75,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgwynn76,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,olethieulier77,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lvallintine78,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fmerrisson79,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,igrigoire7a,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vmcelvogue7b,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdurgan7c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,erootham7d,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ibattin7e,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hhindge7f,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jdillestone7g,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gseyfart7h,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rclay7i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cgailor7j,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ntorra7k,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cgauford7l,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chillatt7m,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbrumfitt7n,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,adumigan7o,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nsuffield7p,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nwhorf7q,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gkendle7r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dphillipson7s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mcurle7t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gfeldhammer7u,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmattholie7v,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rhakeworth7w,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lcalverley7x,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,echapleo7y,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acassy7z,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jmathiassen80,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bormrod81,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nanyon82,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tbowers83,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wchurchley84,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kgoodhay85,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,losheils86,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dbavridge87,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nmalloy88,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fmcquorkell89,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cstennett8a,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ltheobold8b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmoncreiffe8c,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,afforde8d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,otodarini8e,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,droubeix8f,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmetham8g,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bchellam8h,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jposchel8i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dshanklin8j,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdurnall8k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bearry8l,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sphillipp8m,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bhaversham8n,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,apenswick8o,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mleband8p,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jclaibourn8q,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lhalbert8r,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,probison8s,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ccantua8t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jpurtell8u,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tdorling8v,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dpadillo8w,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ifairs8x,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,csorrel8y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbateup8z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmewha90,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,etharme91,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,goakinfold92,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mvanyukov93,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rscarrott94,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gsterland95,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,flunk96,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jdagostini97,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gorr98,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wtumbridge99,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abaird9a,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lohingerty9b,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mvasyuchov9c,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gvasyanin9d,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nfisby9e,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dgascoyne9f,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bkobierzycki9g,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abromige9h,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,akull9i,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,khexam9j,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lkilpin9k,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbranthwaite9l,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ljanicijevic9m,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,simpy9n,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmanssuer9o,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acayet9p,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bsparkes9q,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pmoncrefe9r,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dbowhay9s,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,opaddeley9t,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sdensie9u,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,zcraster9v,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahoovart9w,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ltilly9x,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,esiaskowski9y,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dwoehler9z,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lstangoa0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ckerswella1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lcosensa2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chalwilla3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dlaweya4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,emoodeya5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tbrentona6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kshukera7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,csikoraa8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gbirtleya9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,screaseraa,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aheathfieldab,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wmilliganac,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agrinikhinovad,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rbarkworthae,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agrabertaf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,slistoneag,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mfessionsah,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kderycotai,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmedlandaj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bfilipiakak,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,doflynnal,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fchildam,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdabellan,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,asinottao,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pscothorneap,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fscobleaq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,santeckiar,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aroskellas,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lfeaksat,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbranthwaiteau,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmcalisterav,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmcgibbonaw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,avanbruggenax,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wlepoidevinay,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iburgumaz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,poddboyb0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmartschikb1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,narnholtzb2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gperryb3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahakesb4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbuzzab5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmccaughenb6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kwybrewb7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vcarmelb8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lsprosonb9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jdufaurba,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bwerendellbb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdismorebc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lgarlantbd,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abussellbe,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lkirtleybf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rkeddeybg,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdiffleybh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rfarakerbi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cgronowebj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cdeblasiobk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pdunleybl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,adumbartonbm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bpohlbn,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dairybo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cboorbp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lbambrabq,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nferraresibr,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aattockbs,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,garrighinibt,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,celiassonbu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdenyaginbv,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tdeggbw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,thimpsonbx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gpoultonby,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,swavishbz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcharerc0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,snibleyc1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,stallowinc2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cwoolenc3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ogerokc4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fmellsopc5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rsiddallc6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mgeillierc7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbursnellc8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmayersc9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cstratheca,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rpreshocb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcossoncc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wkaszpercd,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pbuckleyce,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ekolescf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mleylandcg,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chandrickch,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dasaafci,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rwaterhousecj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbromidgeck,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,adonaldcl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tlentecm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kmackettrickcn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbreckwellco,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jjonescp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,scoveycq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nlorrainecr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mrobilartcs,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ccairnsct,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rrentalllcu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mbrennanscv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pmcnirlancw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,llomaxcx,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dhuggillcy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mpleumancz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ainmand0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ldoerrend1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ljoscelind2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kacostad3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vpittsond4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vbradfordd5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mpaiged6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,scantod7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,edorbond8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kabatellid9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dbloodda,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bnoquetdb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cyeatmandc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ysouterdd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tgurgde,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wgiacomuzzodf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ysinkindg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fcotedh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fkennermanndi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcoursordj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ekassmandk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hdeerdl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,measterbrookdm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jeskrickdn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ospurrdo,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nmussallidp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sfiguredq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acarmeldr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,thryskiewiczds,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,alegooddt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aboshelldu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mpawelecdv,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,witzcovichdw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bfarhertydx,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgregoracedy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,trealphdz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ephillpote0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,spelzere1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,msorleye2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,llosekee3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,slonghurste4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jmcgeouche5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kdunbavine6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bwaymane7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sjackse8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iduinbletone9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jizachikea,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mfortineb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmadocjonesec,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cferruccied,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abearnee,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lredishef,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dibaneg,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hkillickeh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,eboumphreyei,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ghaestierej,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rfindersek,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmcquillanel,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,icrameem,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rwaltersen,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbarrseo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hladloeep,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,motterwelleq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmaskiller,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,asandses,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lkeithet,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tscogineu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,louldcottev,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dosullivanew,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbanfillex,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ffoldesey,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmignotez,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dzohrerf0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rwinsomef1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,drobezf2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,asonef3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdibaudif4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rsaulterf5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,scheckettsf6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cknappenf7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ehaycockf8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mbothenf9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jgoodburfa,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcuphusfb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dboswardfc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bscousefd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,osandwithfe,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,itimbyff,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcamellifg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcowxfh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hharronfi,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,theiferfj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbartholomewfk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dlithgowfl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ecardenosofm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agennyfn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbrewerfo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tbrislanfp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dblackeslandfq,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ekeetleyfr,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sellicockfs,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rfillinghamft,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ccowlingfu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmethamfv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jwakerleyfw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fwedlockfx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pjoslingfy,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cvowellsfz,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sraug0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ijozefiakg1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gbelzg2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,krenshawg3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vmcbeang4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tcalenderg5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hdesquesnesg6,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbontineg7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,docannang8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dfriseg9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rvondrakga,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rhallengb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbudcockgc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chullygd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdockwrage,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tjudsongf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,flowegg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,efontgh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,growthornegi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,otuftsgj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ceburahgk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kpratleygl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gsottellgm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,avettoregn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agianuzzigo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmeingp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ksethgq,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbenoixgr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,eloadsmangs,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ddishmongt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,droselgu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lreillygv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gcoolahangw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mpharrowgx,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cmcconnachiegy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aloughtongz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cdanielssonh0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lamsbergerh1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nnurdenh2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gaggeh3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ipetrashkovh4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,btrevetth5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mcropperh6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,arosserh7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ejellmanh8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mparish9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bcolkettha,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mrissenhb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmaclesehc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,emcfarlandhd,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mfoothe,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,owadelinhf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dwestberghg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,glefriechh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agolbyhi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mlambertohj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sweinberghk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hjelkshl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aquipphm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,snevitthn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgregoriouho,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mhallowayhp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahilliamhq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ccollinsonhr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pmussaredhs,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kzylbermannht,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bfishbiehu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bgladtbachhv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dstansfieldhw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kknibbshx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kpiddletownhy,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gpaoluccihz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aruscoei0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bpasseyi1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dhumbeyi2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbrounckeri3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,elavalliei4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nivanikovi5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gkornyakovi6,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,battwoodi7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,crabbeti8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mrignalli9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bjoveyia,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lbielfeldib,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gsyrieic,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sgrunnillid,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jwigsellie,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,umillwaterif,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mantonsenig,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hharrhyih,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jconradieii,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cspinneyij,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dbundyik,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,btrathenil,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mlawteyim,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mgrisbrookin,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pkellartio,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tkopischip,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sfildeiq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdonovanir,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ifynesis,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,byeardsleyit,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbaildoniu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cdoncasteriv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dsharmaiw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bortsix,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aescreetiy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ggosziz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hesbergerj0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ogiacovazzoj1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ndaelmanj2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,whierroj3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aneilj4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kfeatherbiej5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cmcguckenj6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gamesj7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lulyetj8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcareswellj9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fleningja,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lcorbouldjb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,blehuquetjc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jshubothamjd,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rghelarduccije,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ibarnevillejf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,llidyardjg,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rdrakersjh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mfarrahji,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tsimoneschijj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rtyrerjk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bgommejl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fcanadajm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tkellingtonjn,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,welsworthjo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gsmetounjp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hkomorowskijq,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dgatcliffjr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kbiggadykejs,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmogeyjt,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmalsterju,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hfreckeltonjv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,athorndalejw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aoverlandjx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sdreelanjy,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ghoyerjz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chaffordk0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iscimonellik1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acluesk2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbuckeridgek3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,klamersk4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acorderok5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wbarrettk6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,qgrzeszczakk7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,smatusk8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nnanglek9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbowickka,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,epoatkb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nkissellkc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,awindresskd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ohampshawke,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gvasyukhinkf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jpullmankg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,scracoekh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,todoireidhki,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lhamiltonkj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,malmeidakk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,abrewertonkl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,soliffkm,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mbeggkn,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fciepluchko,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gcreanekp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbarbosakq,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dregikr,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,amortelks,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cdarwentkt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,uangraveku,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rwongkv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,qnegrikw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,psteerskx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,isandsky,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,acoldbathkz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gfruchterl0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sbeaganl1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jnewbeginl2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lstubbingtonl3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mduckitl4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mblackaterl5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wbabingtonl6,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ntumilityl7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,myakovll8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,atessymanl9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jfrenschla,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tmcgeownlb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbardelc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jkarmelld,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mshevellle,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,adounbarelf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agreenalflg,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,awengerlh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fstickellsli,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dkiezlerlj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmarunchaklk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bprielll,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cpetticanlm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dskelingtonln,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cogormleylo,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,krhulelp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lcrepellq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mflanaghanlr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pkasparls,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ekauffmanlt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,qgalbraethlu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pvlahoslv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pfairpolw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tokkerlx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gprozesckyly,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lthreshlz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dcozzim0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jflaym1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lfullardm2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,clarozem3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vcoverlynm4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmcilvennam5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tcoastm6,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,achrishopm7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bfranzkem8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tcarrivickm9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jfriesema,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fbartaluccimb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gdelguamc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mmclellanmd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ishovellme,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kkernaghanmf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ktomashovmg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tmantrupmh,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,djacobbemi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,talenichicovmj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tjinkinmk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cgawithml,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agonzalezmm,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,uslydemn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cteazemo,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ibrocklebankmp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mstansfieldmq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jfippmr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jbendixenms,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pgerhardtmt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,phaltonmu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cyurchishinmv,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdenismw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahartopmx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wfaccinimy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ophilippoumz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lgebhardn0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ochurchyardn1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rlouthn2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lstroyann3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jfauntn4,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,omatheyn5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,spatersonn6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rpouckn7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cputleyn8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,drennoldsn9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ctweddellna,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fdennettnb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,egarnseync,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,msparkwellnd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dpuntne,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dbewlaynf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cbouleng,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,leastopenh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pgunningni,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bhackettnj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kcrannagenk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gbodleynl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,htreneernm,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,schangnn,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmyrickno,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hmarhamnp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,wfiermannq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbosdennr,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lpielns,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pormeshernt,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,elundbecknu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bbindleynv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lshynnnw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gtrenfieldnx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jvilesny,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pgatlinnz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdouglaso0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gkinkadeo1,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cburnelo2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sfawderyo3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dblancoweo4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,woniono5,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kainscougho6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dfellibrando7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmcginlyo8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fkeepingo9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mhaxbyoa,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,clebondob,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pkikkeoc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vcasoneod,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ascollioe,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pvillaltaof,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ljewisog,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mravenscroftoh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nseggesoi,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vwhitcomboj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,upumfrettok,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vhitterol,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aellinom,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mhearndenon,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mbrinkworthoo,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gmitroshinovop,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mdonalsonoq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pvaseninor,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bmccaughenos,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,camorineot,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmctrustieou,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,psaffeov,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tlavigneow,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mhunnybunox,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,zbiltonoy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bsnedkeroz,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dclendeningp0,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lpatchingp1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fduttonp2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bsleitep3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ymcgarrellp4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmacelroyp5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tcolombp6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hhendersonp7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,haspyp8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ktearnyp9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mvanderbekenpa,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,vickeringillpb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nmattheeuwpc,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ssatepd,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bregglerpe,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,djantzenpf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,amacinnespg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rmassieph,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jmumbraypi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cjuniferpj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kscogginpk,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pkivellepl,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dmillingtonpm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,idodgshunpn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,johanleypo,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lsteartpp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,domaileypq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mscrannagepr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cissacovps,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mespypt,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mjaquespu,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,afranciscopv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cdonipw,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bdumbarpx,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jreediepy,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,esemradpz,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aromneyq0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,spechellq1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dburburoughq2,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kcarwardineq3,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gjordenq4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mvarvaraq5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pwaadenburgq6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lswantonq7,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,nondrasekq8,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ahealeyq9,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,aplaitqa,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,fowerqb,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lshillingfordqc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sdykasqd,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jertqe,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,sboddieqf,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,smacmakinqg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ecastelloneqh,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gearlamqi,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mottewellqj,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,jprendergrassqk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ekilmurryql,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,milyinqm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mchampeqn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,btesmondqo,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rpakenhamqp,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cinklesqq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cbidewelqr,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kadsheadqs,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lmannockqt,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tanglishqu,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,twincomqv,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ctarrierqw,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,agypsonqx,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rgniewoszqy,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ehampsonqz,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gcollingr0,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,iivanchikovr1,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bkrierr2,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mwendenr3,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rstorrsr4,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ckimblenr5,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ovondracekr6,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,slittledyker7,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tradbandr8,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rtreasurer9,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,madessra,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,cmargarsonrb,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,pbernardotrc,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,lsignorellird,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ibucknallre,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,rseabrookrf,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,kaubertrg,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mkalaherrh,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,dlindbackri,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,khavercroftrj,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,mjakemanrk,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,tkingsleyrl,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hlitelrm,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,gstanyerrn,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,hbaumero,200,OK
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,ewendoverrp,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,bchevinrq,401,El usuario no cuenta con el nivel de acceso requerido
+http://ec2-34-235-166-27.compute-1.amazonaws.com:3001/consultar-perfil-deportivo,chowbrookrr,200,OK

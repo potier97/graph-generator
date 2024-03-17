@@ -1,0 +1,6 @@
+.venv
+/venv
+.idea
+instance/*
+celerybeat-schedule.db
+*.log
